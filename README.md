@@ -1,5 +1,6 @@
 # Tank-Game - Unity 3D FPS Game 
 
+>This game in which you dodge bullets of oncoming enemy tanks and knock down many enemy tanks to get a lot of points
 <p>
   <a><img src="https://img.shields.io/badge/unity3d-2021.2.16f1-blue?style=flat-square&logo=unity"></a>
 </p>
