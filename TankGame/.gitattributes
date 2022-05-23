@@ -1,0 +1,14 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.resS filter=lfs diff=lfs merge=lfs -text
+*.c8 filter=lfs diff=lfs merge=lfs -text
+c80546397de69ed76a19d26lf2e524a7 filter=lfs diff=lfs merge=lfs -text
+*/c8 filter=lfs diff=lfs merge=lfs -text
+*..c8052 filter=lfs diff=lfs merge=lfs -text
+;
+ff
+>
+ filter=lfs diff=lfs merge=lfs -text
+*.c80546397de69ed76a19d261f2e524a7 filter=lfs diff=lfs merge=lfs -text
+Assets/** filter=lfs diff=lfs merge=lfs -text
+c8/** filter=lfs diff=lfs merge=lfs -text
+Library/** filter=lfs diff=lfs merge=lfs -text
