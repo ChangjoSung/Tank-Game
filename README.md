@@ -1,6 +1,5 @@
-# Tank-Game
-# PhysicallybasedSoapbubble-BubbleArtXR-unity
-> This project is a XR bubble art fab-lab system with physically-based soap bubble rendering. 
+# Tank-Game - Unity 3D FPS Game 
+
 <p>
   <a><img src="https://img.shields.io/badge/unity3d-2021.2.16f1-blue?style=flat-square&logo=unity"></a>
 </p>
