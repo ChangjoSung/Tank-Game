@@ -9,7 +9,7 @@
 ![게임화면](https://user-images.githubusercontent.com/92200057/169802306-c48b3d2e-1a64-4687-a839-e54d6bce612f.JPG)
 ![종료화면](https://user-images.githubusercontent.com/92200057/169802390-e84bbcaa-ee58-416d-8dd1-f30aaf5fd5e1.JPG)
 
-## 📢 Demo
+## 📢 YouTube
 https://www.youtube.com/watch?v=GhWbe3kT6rc
 
 ## ⚙ Development Environment
